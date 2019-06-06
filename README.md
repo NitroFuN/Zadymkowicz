@@ -1,3 +1,3 @@
-# zadymkowicz
+# Zadymkowicz
 
 <b>Coming Soon...</b>
