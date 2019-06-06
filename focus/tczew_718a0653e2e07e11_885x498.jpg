@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="origin-when-crossorigin" id="meta_referrer" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tcz.pl</title>
+<meta property="og:title" content="Tcz.pl" />
+<meta property="article:publisher" content="https://www.facebook.com/tczewtczpl" />
+<meta property="fb:pages" content="111429705554246" />
+<meta property="og:url" content="https://www.tcz.pl/index.php?p=0,0,0,404" />
+<meta property="og:image" content="https://www.tcz.pl/_ramfs/images/og-tcz-pl-image.jpg" />
+<meta property="og:locale" content="pl_PL" />
+<meta property="og:site_name" content="Tcz.pl" />
+<meta property="og:type" content="article" />
+<link rel="canonical" href="https://www.tcz.pl/index.php?p=0,0,0,404&item=&title=" />
+<meta property="article:tag" content="Tczpl" />
+<meta name="author" content="McB, mcb@tcz.pl, kontakt@redakcja.tcz.pl">
+<link rel="alternate" type="application/rss+xml" title="Kanał RSS - Tcz.pl" href="https://www.tcz.pl/rss/aktualnosci/" />
+<link href="_ramfs/css/roboto.css" rel="stylesheet">
+<link href="_ramfs/css/roboto500.css" rel="stylesheet">
+<link href="_ramfs/css/owl.carousel.css" rel="stylesheet">
+<link href="_ramfs/css/bootstrap.min.css" rel="stylesheet">
+<link href="_ramfs/css/font-awesome.css" rel="stylesheet">
+<link href="_ramfs/css/main.css" rel="stylesheet">
+<link href="_ramfs/css/responsive.css" rel="stylesheet">
+<link href="_ramfs/css/main-tcz-skin.css?04052019200005" rel="stylesheet"><link href="_ramfs/css/font-awesome-animation.min.css" rel="stylesheet">
+<script type="text/javascript" src="_ramfs/js/jquery.js"></script>
+<script type="text/javascript" src="_ramfs/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="_ramfs/js/owl.carousel.min.js"></script>
+<link rel="stylesheet" type="text/css" href="_ramfs/js/fancybox/jquery.fancybox.css?v=2.1.4" media="screen" />
+<link rel="stylesheet" type="text/css" href="_ramfs/js/fancybox/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
+<link rel="stylesheet" type="text/css" href="_ramfs/js/fancybox/fancybox.css" />
+<script type="text/javascript" src="_ramfs/js/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="_ramfs/js/fancybox/jquery.fancybox.js?v=2.1.4"></script>
+<script type="text/javascript" src="_ramfs/js/fancybox/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="_ramfs/js/fancybox/fancybox.js"></script>
+<link href="_ramfs/css/jquery.filer.css" type="text/css" rel="stylesheet" />
+<link href="_ramfs/css/jquery.filer-dragdropbox-theme.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="_ramfs/js/jquery.filer.min.js?v=1.0.5"></script>
+<script type="text/javascript" src="_ramfs/js/jquery.filer.custom.js?v=1.0.5"></script>
+<script src="_ramfs/js/datepicker/js/bootstrap-datepicker.js"></script>
+<link href="_ramfs/js/datepicker/css/datepicker.css" rel="stylesheet">
+<link href="_ramfs/js/flatWeatherPlugin/css/flatWeatherPlugin.css" rel="stylesheet">
+<script src="_ramfs/js/flatWeatherPlugin/js/jquery.flatWeatherPlugin.js"></script>
+<script type="text/javascript" src="_ramfs/js/tcz-v1-script.js?04052019200005"></script>
+<!--[if lt IE 9]>
+<script src="_ramfs/js/html5shiv.js"></script>
+<script src="_ramfs/js/respond.min.js"></script>
+<![endif]-->       
+<link rel="shortcut icon" href="_ramfs/images/ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="_ramfs/images/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="_ramfs/images/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="_ramfs/images/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="_ramfs/images/ico/apple-touch-icon-57-precomposed.png">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-7711601618739950",
+enable_page_level_ads: true
+});
+</script>
+</head>
+<body>
+<div id="dynamic-loading-rodo" class="outer" style="display:none; position:fixed; z-index:19005; background:rgba(000, 000, 000, .20);">
+<div class="middle"><div class="inner"></div></div></div>
+<div id="dynamic-load-rodo" class="outer" style="display:none; position:fixed; z-index:20010; background:rgba(000, 000, 000, .20);"></div>
+
+<div id="dynamic-loading" class="outer" style="display:none; position:fixed; z-index:19004; background:rgba(000, 000, 000, .40);">
+<div class="middle"><div class="inner"><div class="load-info-spin"><i class="fa fa-spinner fa-spin" style="font-size:48px; color:#8dc63f"></i><br /><span style="font-size:12px; color:#8dc63f">ładowanie</span></div></div></div></div>
+<div id="dynamic-load" class="outer" style="display:none; position:fixed; z-index:20005; background:rgba(000, 000, 000, .40);"></div>
+
+<div id="dynamic-loading-d-info" class="outer" style="display:none; position:fixed; z-index:19000; background:rgba(000, 000, 000, .40);">
+<div class="middle"><div class="inner"></div></div></div>
+<div id="dynamic-load-d-info" class="outer" style="display:none; position:fixed; z-index:20000; background:rgba(000, 000, 000, .40);">
+
+<div class="middle">
+<div class="inner">
+<div style="display:table; padding:30px; margin:auto; background-color:#ffffff; -webkit-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75); -moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75); box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75)"><span class="resp-nag bold-r dblue">Sobota, 4 maja 2019</span><br />
+
+Imieniny: Florian, Malwina, Monika
+<br />Do końca roku pozostało: 241 dni<div id="weather-widget">
+
+<div style="float:left;width:100%;text-align:center;padding-top:20px">
+<span class="resp-nag-min">Pogoda w Tczewie</span></div><br>
+
+<div style="float:left; width:100%; text-align:center; padding-top:10px; padding-bottom:5px"><a title="Pogoda Tczew" href="index.php?p=0,0,0,pogoda-tczew"><img class="weather-image" style="width:71px; height:71px" src="_ramfs/images/pogoda/26.svg" alt="Pogoda w Tczewie"></a></div>
+
+<div style="float:left; width:100%; padding-top:3px">
+
+<div style="color:#525b6e" class="col-xs-6 col-md-3 text-center" title="Temperatura"><i class="fa fa-thermometer-2"></i>&nbsp;&nbsp;8&degC</div>
+
+<div style="color:#525b6e" class="col-xs-6 col-md-3 text-center" title="Ciśnienie"><i class="fa fa-heart"></i>&nbsp;&nbsp;1003 hPa</div>
+
+<div style="color:#525b6e" class="col-xs-6 col-md-3 text-center" title="Wilgotność"><i class="fa fa-tint"></i>&nbsp;&nbsp;47%</div>
+
+<div style="color:#525b6e" class="col-xs-6 col-md-3 text-center" title="Wiatr"><i class="fa fa-leaf"></i>&nbsp;&nbsp;6 km/h</div>
+
+</div>
+
+<div style="float:left; width:100%; padding-bottom:10px; padding-top:15px">
+
+<a href="https://www.tcz.pl/url.php?u=b3e82a" target="_blank"><img src="_ramfs/images/yahoo_logo.png" style="width:100px; height:24px" title="Pogoda Tczew z Yahoo"></a>
+
+</div>
+
+</div>
+
+<div class="resp-nag-min" style="width:100%; text-align:center; margin-bottom:-10px">10 najbliższych wydarzeń w Tczewie<br /><i class="fa fa-calendar" style="font-size:15px; color:#8dc63f"></i> <a href="index.php?p=1,3,0,nadchodzace-wydarzenia-kalendarz" style="font-size:15px; color:#8dc63f">sprawdź cały kalendarz wydarzeń</a></div>
+
+<div id="breaking-news-w">
+<div class="breaking-news-scroll-w">
+<ul style="width:100%; text-align:center"><li><a title="&quot;KRAINA ŚPIOCHÓW&quot; - spektakl dla dzieci" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=a3e3a816edf7a884&title=KRAINA-SPIOCHOW-spektakl-dla-dzieci">1/10: &quot;KRAINA ŚPIOCHÓW&quot; - spektakl dla dzieci ()</a></li><li><a title="Otwarcie Po Maluchu, knajpy rodem z PRL" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=e8d92d7d20757c29&title=Otwarcie-Po-Maluchu-knajpy-rodem-z-PRL">2/10: Otwarcie Po Maluchu, knajpy rodem z PRL (04.05.2019)</a></li><li><a title="Weekend dla zdrowia" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=6abcdc8b62919f46&title=Weekend-dla-zdrowia">3/10: Weekend dla zdrowia (04.05.2019)</a></li><li><a title="Kanion Sport !!! Celta Vigo - FC Barcelona na dużym ekranie początek godz. 20.00" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=5bf3df5547121aa1&title=Kanion-Sport-Celta-Vigo-FC-Barcelona-na-duzym-ekranie-poczatek-godz-2000">4/10: Kanion Sport !!! Celta Vigo - FC Barcelona na dużym ekranie początek godz. 20.00 (04.05.2019)</a></li><li><a title="Festyn dla pogorzelców z Dąbrówki - przyjdź i pomóż!" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=54247f9c2d468b56&title=Festyn-dla-pogorzelcow-z-Dabrowki-przyjdz-i-pomoz">5/10: Festyn dla pogorzelców z Dąbrówki - przyjdź i pomóż! (04.05.2019)</a></li><li><a title="Majowe warsztaty plastyczne w Fabryce Sztuk" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=0a456751b0160c3a&title=Majowe-warsztaty-plastyczne-w-Fabryce-Sztuk">6/10: Majowe warsztaty plastyczne w Fabryce Sztuk (04.05.2019)</a></li><li><a title="Kanion Sport !!! PSG - PGE Vive Kielce na dużym ekranie początek godz. 17.00" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=670e19a3b69d39b5&title=Kanion-Sport-PSG-PGE-Vive-Kielce-na-duzym-ekranie-poczatek-godz-1700">7/10: Kanion Sport !!! PSG - PGE Vive Kielce na dużym ekranie początek godz. 17.00 (05.05.2019)</a></li><li><a title="Kanion Sport !!! AC Milan - Bologna FC na dużym ekranie początek godz. 20.00" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=3af6bfe5d60d0ea9&title=Kanion-Sport-AC-Milan-Bologna-FC-na-duzym-ekranie-poczatek-godz-2000">8/10: Kanion Sport !!! AC Milan - Bologna FC na dużym ekranie początek godz. 20.00 (06.05.2019)</a></li><li><a title="Kanion Sport !!! Liverpool FC - FC Barcelona na dużym ekranie początek godz. 20.00" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=d6db3e56d06d1d34&title=Kanion-Sport-Liverpool-FC-FC-Barcelona-na-duzym-ekranie-poczatek-godz-2000">9/10: Kanion Sport !!! Liverpool FC - FC Barcelona na dużym ekranie początek godz. 20.00 (07.05.2019)</a></li><li><a title="Spotkanie autorskie dla dzieci z Małgorzatą Strękowską- Zarembą" href="index.php?p=1,3,0,nadchodzace-wydarzenia&item=81f6267dbcb016ef&title=Spotkanie-autorskie-dla-dzieci-z-Malgorzata-Strekowska-Zaremba">10/10: Spotkanie autorskie dla dzieci z Małgorzatą Strękowską- Zarembą (07.05.2019)</a></li></ul>
+</div>
+</div>
+
+<div class="dyna-exit">Zamknij</div>
+
+</div>
+</div>
+</div>
+</div><div id="main-wrapper" class="homepage">
+
+<header id="navigation"><div class="navbar" role="banner">
+
+<div class="container">
+<a class="secondary-logo" href="https://www.tcz.pl">
+<img class="img-responsive" src="_ramfs/images/tcz_logo.svg" alt="Tcz.pl logo" style="margin-top:-3px; width:123px; height:40px">
+</a>
+</div>
+
+<div class="topbar">
+<div class="container">
+<div id="topbar" class="navbar-header" style="margin-top:10px">
+
+<a class="navbar-brand" href="https://www.tcz.pl">
+<img class="main-logo img-responsive" src="_ramfs/images/tcz_logo.svg" alt="Tcz.pl logo" style="margin-top:-3px; float:left; width:123px; height:40px"><div class="site-desc dblue">Internetowy Serwis Informacyjny Miasta Tczewa</div>
+</a>
+
+<div id="topbar-right">
+
+<div class="dropdown language-dropdown">
+
+<a data-toggle="dropdown" href="#" style="text-decoration:none"><span class="change-text dblue"><i class="fa fa-diamond"></i> TOP</span> <i class="fa fa-angle-down"></i></a>
+
+<ul class="dropdown-menu">
+
+<li><a href="index.php?p=0,0,0,ranking-artykulow-top-100&sort=0">TOP 100 artykułów (Wiadomości)</a></li>
+<li><a href="index.php?p=0,0,0,ranking-artykulow-top-100&sort=1">TOP 100 artykułów (Telewizja)</a></li>
+<li><a href="index.php?p=0,0,0,ranking-artykulow-top-100&sort=2">TOP 100 artykułów (Tcz24)</a></li>
+<li><a href="index.php?p=0,0,0,ranking-artykulow-top-100&sort=3">TOP 100 artykułów (Sport)</a></li>
+
+</div>
+
+<div id="date-time" title="Szczegóły" style="cursor:pointer"></div>
+
+<div id="weather" title="Szczegóły" style="cursor:pointer"><span class="hidden-xs1 hidden-md1 dblue">Tczew </span><img src="_ramfs/images/pogoda/26.svg" style="width:30px; height:30px"><span class="dblue"> 8&deg;C</span></div>
+
+<div id="top-icon" class="hidden-xs hidden-md">
+
+<a href="http://www.forum.tcz.pl" title="Forum dyskusyjne"><div class="top-icon-circle" style="width:42px"><i class="fa fa-comment-o" style="font-size:22px"></i><br /><div style="font-size:10px; margin-top:-20px">Forum</div></div></a>
+
+<a href="index.php?p=5,31,0,mapa-miasta" title="Mapa miasta"><div class="top-icon-circle" style="width:47px; margin-left:-6px"><i class="fa fa-map-o"></i><br /><div style="font-size:10px; margin-top:-20px">Mapa</div></div></a>
+
+<a href="index.php?p=1,69,0,telewizja-tczew" title="Telewizja internetowa"><div class="top-icon-circle" style="margin-left:-7px"><i class="fa fa-television"></i><br /><div style="font-size:10px; margin-top:-20px; margin-left:-3px">TV</div></div></a>
+
+<a href="index.php?p=5,63,0,foto-galeria" title="Galeria zdjęć"><div class="top-icon-circle" style="width:40px; margin-left:-6px"><i class="fa fa-sticky-note-o"></i><br /><div style="font-size:10px; margin-top:-20px">Galeria</div></div></a>
+
+<a href="index.php?p=9,7,0,katalog-firm" title="Katalog firm i instytucji"><div class="top-icon-circle" style="width:44px; margin-left:-5px"><i class="fa fa-folder-o"></i><br /><div style="font-size:10px; margin-top:-20px">Katalog</div></div></a>
+
+<a href="index.php?p=1,128,0,rss" title="Kanał RSS"><div class="top-icon-circle" style="width:40px; margin-left:-5px"><i class="fa fa-rss"></i><br /><div style="font-size:10px; margin-top:-20px">RSS</div></div></a>
+
+<a href="https://www.facebook.com/tczewtczpl" title="Facebook"><div class="top-icon-circle" style="width:44px; margin-left:-5px"><i class="fa fa-facebook-official"></i><br /><div style="font-size:10px; margin-top:-20px">Facebook</div></div></a>
+
+<a href="index.php?p=0,0,0,poczta_logowanie" title="Poczta e-mail"><div class="top-icon-circle" style="width:44px; margin-left:-1px"><i class="fa fa-envelope-o"></i><br /><div style="font-size:10px; margin-top:-20px">Poczta</div></div></a>
+
+</div>
+
+</div>
+
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="margin-top:23px">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+</div> 
+
+</div> 
+
+</div><div id="add-top-1" style="border-bottom:1px solid #eeeeee; padding-top:10px; padding-bottom:20px">
+<div id="reklama-ban-1"></div>
+</div>
+
+<script language="javascript">
+<!--
+dynamic_load_fast('reklama','#reklama-ban-1','?w=hd&style=margin:auto;margin-top:1px&id=top-add-big-2');
+//-->
+</script>
+<div id="menubar" class="container">	
+
+<nav id="mainmenu" class="navbar-left collapse navbar-collapse"> 
+
+<ul class="nav navbar-nav"><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Wiadomości</a>
+
+<ul class="dropdown-menu">
+<li><a href="index.php?p=1,47,0,wiadomosci">Aktualności</a></li>
+<li><a href="index.php?p=1,3,0,nadchodzace-wydarzenia-kalendarz">Kalendarz imprez i wydarzeń</a></li>
+<li><a href="index.php?p=1,69,0,telewizja-tczew">Telewizja Internetowa</a></li>
+<li><a href="index.php?p=1,62,0,tcz-24">Tcz24</a></li>
+<li><a href="index.php?p=1,64,0,muzyka-kultura-sztuka">Muzyka, kultura i sztuka</a></li>
+<li><a href="index.php?p=1,1,0,sport">Sport</a></li>
+<li><a href="index.php?p=0,0,0,temat&item=298e0af7&title=Kronika-policyjna">Kronika Policyjna</a></li>
+<li><a href="index.php?p=1,65,0,archiwum-wydarzen">Archiwum wydarzeń</a></li>
+<li><a href="index.php?p=1,128,0,rss"><i class="fa fa-rss green"></i> Kanał RSS</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=www.tcz.pl.android"><i class="fa fa-android green"></i> Tcz.pl w Twoim telefonie</a></li>
+</ul>
+
+</li>
+<li class="dropdown mega-dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Ogłoszenia</a>
+
+<div class="dropdown-menu mega-menu">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-sm-3">
+
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Przeglądaj ogłoszenia</h2>
+
+<ul>
+
+<li><a href="index.php?p=2,4,0,ogloszenia-sprzedam-oferuje">Sprzedam, oferuję</a></li>
+<li><a href="index.php?p=2,14,0,ogloszenia-kupie-poszukuje">Kupię, poszukuję</a></li>
+<li><a href="index.php?p=2,15,0,ogloszenia-oddam-za-darmo">Oddam za darmo</a></li>
+
+</ul>
+
+</div>
+
+<div class="col-sm-3">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Znajdź ogłoszenie</h2>
+<form method="post" action="ogloszenia-tczew-szukaj.php">
+<input type="hidden" name="pogl" value="2,4,0,ogloszenia-sprzedam-oferuje">
+<div class="form-group">
+<label class="gray">Nazwa:</label>
+<input type="text" name="qogl" class="form-control" required="required" pattern=".{3,}" required title="minumum 3 znaki">
+</div>
+<div class="submit-button text-center">
+<button type="submit" class="btn btn-primary" style="width:100%">Szukaj</button>
+</div>
+</form>
+</div>
+
+<div class="col-sm-3 hidden-xs">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Porównaj ogłoszenia</h2>
+<div class="entry-thumbnail">
+<a href="index.php?p=2,13,0,ogloszenia-porownaj-bezplatne-platne"><img class="img-responsive" src="_ramfs/images/tcz-platne-bezplatne.jpg" alt="porownaj_ogloszenia" /></a>
+</div>
+</div>
+
+<div class="col-sm-3">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Dodaj ogłoszenie</h2>
+<div class="entry-thumbnail" style="margin-left:0px; padding-left:2px">
+<h5 class="red"><span class="red"><i class="fa fa-plus-circle"></i> <a href="javascript:dodaj_ogloszenie('platne');" class="red"><span class="red">dodaj ogłoszenie płatne</span></span></a></h5>
+<h5 class="red"><span class="red"><i class="fa fa-plus-circle"></i> <a href="javascript:dodaj_ogloszenie('bezplatne');" class="red"><span class="red">dodaj ogłoszenie bezpłatne</span></a></h5>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</li><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Katalog</a>
+<ul class="dropdown-menu">
+<li><a href="index.php?p=9,7,0,katalog-firm">Katalog firm i instytucji</a></li>
+<li><a href="index.php?p=9,8,0,katalog-firm-dodaj"><span class="red"><i class="fa fa-plus-circle"></i> Dodaj do katalogu</span></a></li>
+</ul>
+</li><li class="dropdown mega-dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Reklama</a>
+
+<div class="dropdown-menu mega-menu">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-sm-2">
+
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Reklama w Tcz.pl</h2>
+
+<ul>
+<li><a href="index.php?p=10,9,0,reklama-tczew">Oferta, cennik reklam</a></li>
+<li><a href="index.php?p=10,10,0,reklama-tczew-regulamin">Zasady emisji reklam</a></li>
+<li><a href="index.php?p=12,52,0,tcz-kontakt&typ=3&temat=Zamówienie:+reklama+w+Tcz.pl"><span class="red"><i class="fa fa-plus-circle"></i> Zareklamuj się</span></a></li>
+</ul>
+
+</div>
+
+<div class="col-sm-5">
+
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Ponad 4000000 odsłon miesięcznie</h2>
+
+<div class="entry-thumbnail">
+<a href="index.php?p=10,9,0,reklama-tczew&item=7cd030b73cf4c981033e538ab81d078e&title=Oferta-reklamowa-cennik-reklam"><img class="img-responsive" src="_ramfs/images/tcz-ga.jpg" alt="reklama-tczew" /></a> 
+</div>												
+
+</div>
+
+<div class="col-sm-5">
+
+<a href="https://www.youtube.com/watch?v=DBnOM5KXyIQ" class=" hidden-xs red" style="float:right; font-size:12px; color:#d73723; padding-top:20px">Zobacz w YouTube</a>
+
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Reklama Tczew, skuteczna reklama</h2>
+
+<div class="entry-thumbnail embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" style="background:#ffffff" src="https://www.youtube.com/embed/DBnOM5KXyIQ"></iframe>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</li><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Praca</a>
+<ul class="dropdown-menu">
+<li><a href="url.php?u=cdc4e6">Oferty Powiatowego Urzędu Pracy</a></li>
+<li><a href="index.php?p=2,4,0,ogloszenia-sprzedam-oferuje&item=2,0,0&title=Praca&sort=5">Ogłoszenia firm lub osób oferujących pracę</a></li>
+<li><a href="index.php?p=2,14,0,ogloszenia-kupie-poszukuje&item=2,0,0&title=Praca&sort=5">Ogłoszenia osób poszukujących pracy</a></li>
+<li><a href="index.php?start-q-google=1&q=praca+tczew&p=0,0,0,start&cx=partner-pub-7711601618739950:7628063425&cof=FORID:10&ie=UTF-8&oe=UTF-8&hl=pl"><img src="_ramfs/images/google_mini_round_logo.png" style="width:16px; height:16px; margin-top:-2px; margin-right:-2px; margin-left:-2px" /> Szukaj ogłoszeń w Google</a></li>
+</ul>
+</li><li class="dropdown mega-dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Lokale i miejsca</a>
+
+<div class="dropdown-menu mega-menu">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-sm-3">
+
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Lokale i miejsca w Tczewie</h2>
+
+<ul>
+<li><a href="index.php?p=3,19,0,gastronomia">Lokale gastronomiczne</a></li>
+<li><a href="index.php?p=4,21,0,puby-kluby">Puby i kluby</a></li>
+<li><a href="index.php?p=11,23,0,kawiarnie">Kawiarnie</a></li>
+<li><a href="index.php?p=7,25,0,noclegi">Lokale oferujące nocleg</a></li>
+<li><a href="index.php?p=6,46,0,salony-urody-masazu">Salony urody i masażu</a></li>
+<li><a href="index.php?p=5,122,0,zlobki-przedszkola">Żłobki i przedszkola</a></li>
+<li><a href="index.php?p=6,28,0,lekarze-szpitale">Lekarze i szpitale</a></li>
+<li><a href="index.php?p=6,27,0,apteki">Apteki</a></li>
+<li><a href="index.php?p=5,35,0,zabytki">Zabytki</a></li>
+<li><a href="index.php?p=5,36,0,koscioly">Kościoły</a></li>
+</ul>
+
+</div>
+
+<div class="col-sm-3">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Zareklamuj swój lokal</h2>
+<div class="entry-thumbnail">
+<a href="index.php?p=12,52,0,tcz-kontakt&typ=3&temat=Zamówienie:+reklama+w+Tcz.pl"><img class="img-responsive" src="_ramfs/images/tcz-skuteczna-reklama-ban.jpg" alt="" /></a> 
+</div>	
+</div>
+
+<div class="col-sm-3">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Lokale gastronomiczne na mapie</h2>
+<div class="entry-thumbnail">
+<a href="index.php?p=3,105,0,gastronomia-mapa"><img class="img-responsive" src="_ramfs/images/tcz-lokale-na-mapie.jpg" alt="" /></a>
+</div>												
+</div>
+
+<div class="col-sm-3">
+<h2 class="bold-r" style="color:#444444; font-weight:normal">Dodaj lokal</h2>
+<div class="entry-thumbnail" style="margin-left:0px; padding-left:2px">
+<h5 class="red"><span class="red"><i class="fa fa-plus-circle"></i> <a href="index.php?p=0,0,0,dodaj-lokal" class="red"><span class="red">dodaj lokal - wersja płatna</span></span></a></h5>
+<h5 class="red"><span class="red"><i class="fa fa-plus-circle"></i> <a href="index.php?p=0,0,0,dodaj-lokal-bezplatnie" class="red"><span class="red">dodaj lokal - wersja bezpłatna</span></span></a></h5>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</li><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Zdrowie</a>
+
+<ul class="dropdown-menu">
+<li><a href="index.php?p=6,28,0,lekarze-szpitale">Lekarze i szpitale</a></li>
+<li><a href="index.php?p=6,27,0,apteki">Apteki</a></li>
+<li><a href="index.php?p=6,104,0,harmonogram-dyzurow-aptek">Harmonogram dyżurów aptek</a></li>
+<li><a href="index.php?p=0,0,0,dodaj-lokal"><span class="red"><i class="fa fa-plus-circle red"></i> Dodaj lokal - lekarz, przychodnia, szpital</span></a></li>
+</ul>
+
+</li><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Miasto</a>
+
+<ul class="dropdown-menu">
+<li><a href="index.php?p=5,30,0,historia-miasta">Historia miasta</a></li>
+<li><a href="index.php?p=5,63,0,foto-galeria&item=8e81797c917da4aa86c8ef6797bf5848&title=Zdjecia-miasta">Zdjęcia miasta</a></li>
+<li><a href="index.php?p=5,63,0,foto-galeria">Foto Galeria</a></li>
+<li><a href="index.php?p=5,108,0,mali-tczewianie"><i class="fa fa-child green"></i> Mali tczewianie</a></li>
+<li><a href="index.php?p=5,31,0,mapa-miasta"><i class="fa fa-map-marker green"></i> Mapa miasta</a></li>
+<li><a href="url.php?u=b56449"><i class="fa fa-bullseye green"></i> Jakość powietrza w mieście</a></li>
+<li><a href="url.php?u=bdad67"><i class="fa fa-comment green"></i> SMS-owy System Informowania</a></li>
+<li><a href="url.php?u=5159ea">Panorama Miasta</a></li>
+<li><a href="index.php?p=5,32,0,wladze-miasta">Władze miasta</a></li>
+<li><a href="http://tczew.pl">Tczew.pl</a></li>
+<li><a href="index.php?p=5,35,0,zabytki">Zabytki</a></li>
+<li><a href="index.php?p=5,36,0,koscioly">Kościoły</a></li>
+<li><a href="index.php?p=5,29,0,wazne-telefony">Ważne telefony</a></li>
+<li><a href="index.php?p=0,0,0,pogoda-tczew"><i class="fa fa-sun-o green"></i> Pogoda, Tczew</a></li>
+<li><a href="http://www.tcz.pl/url.php?u=a54f24"><i class="fa fa-play-circle green"></i> Film promocyjny miasta Tczewa</a></li>
+</ul>
+
+</li><li class="dropdown hidden-md"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Tematy</a>
+
+<ul class="dropdown-menu"><li><a title="Tczew - Kronika policyjna" href="index.php?p=0,0,0,temat&item=298e0af7&title=Kronika-policyjna-Tczew">Kronika policyjna</a></li><li><a title="Tczew - Remont DK 91" href="index.php?p=0,0,0,temat&item=9ee383ec&title=Remont-DK-91-Tczew">Remont DK 91</a></li><li><a title="Tczew - Rosyjska Arktyka 2013" href="index.php?p=0,0,0,temat&item=0be88205&title=Rosyjska-Arktyka-2013-Tczew">Rosyjska Arktyka 2013</a></li><li><a title="Tczew - Stan alarmowy na Wiśle" href="index.php?p=0,0,0,temat&item=ccb9a771&title=Stan-alarmowy-na-Wisle-Tczew">Stan alarmowy na Wiśle</a></li><li><a title="Tczew - Strajk nauczycieli 2019" href="index.php?p=0,0,0,temat&item=19c0073d&title=Strajk-nauczycieli-2019-Tczew">Strajk nauczycieli 2019<span class="dblue bold-r" style="font-size:10px; margin-left:3px">NOWY</span></a></li><li><a title="Tczew - Ulica Nowosuchostrzycka" href="index.php?p=0,0,0,temat&item=ef971ab0&title=Ulica-Nowosuchostrzycka-Tczew">Ulica Nowosuchostrzycka</a></li><li><a title="Tczew - Wybory parlamentarne 2011" href="index.php?p=0,0,0,temat&item=7aa1aee2&title=Wybory-parlamentarne-2011-Tczew">Wybory parlamentarne 2011</a></li><li><a title="Tczew - Wybory samorządowe 2010" href="index.php?p=0,0,0,temat&item=2d38673a&title=Wybory-samorzadowe-2010-Tczew">Wybory samorządowe 2010</a></li><li><a title="Tczew - Wybory samorządowe 2014" href="index.php?p=0,0,0,temat&item=61c5697e&title=Wybory-samorzadowe-2014-Tczew">Wybory samorządowe 2014</a></li><li><a title="Tczew - Wybory samorządowe 2018" href="index.php?p=0,0,0,temat&item=07c7cfcc&title=Wybory-samorzadowe-2018-Tczew">Wybory samorządowe 2018</a></li></ul>
+
+</li><li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Inne</a>
+
+<ul class="dropdown-menu">
+<li><a href="url.php?u=718c06">Tczew w Google Street View</a></li>
+<li><a href="http://www.dawnytczew.pl">Dawny Tczew</a></li>
+<li><a href="url.php?u=fcabcd">Spacer po Tczewie</a></li>
+<li><a href="url.php?u=a9cad0">Fara - wirtualny spacer po kościele</a></li>
+<li><a href="url.php?u=8f8095"><i class="fa fa-link green"></i> Tnij, skróć adres URL</a></li>
+<li><a href="http://www.start.tcz.pl"><i class="fa fa-home green"></i> Twoja strona startowa</a></li>
+</ul>
+
+</li><li class="dropdown reklama-button"></li>
+
+<script language="javascript">
+<!--
+dynamic_load_fast('reklama-button','.reklama-button','?w=btn');
+//-->
+</script>
+</ul> 					
+
+</nav>
+
+<div class="visible-xs" style="display:none; margin-bottom:-34px; padding-top:6px">
+
+<div id="top-icon">
+
+<a href="index.php?p=2,4,0,ogloszenia-sprzedam-oferuje" title="Ogłoszenia"><div class="top-icon-circle green" style="background:none; margin-left:-5px"><i class="fa fa-circle-thin" style="font-size:22px"></i></div></a>
+
+<a href="index.php?p=1,69,0,telewizja-tczew" title="Telewizja internetowa"><div class="top-icon-circle green" style="background:none"><i class="fa fa-television"></i></div></a>
+
+<a href="index.php?p=5,63,0,foto-galeria" title="Galeria zdjęć"><div class="top-icon-circle green" style="background:none"><i class="fa fa-sticky-note-o"></i></div></a>
+
+<a href="index.php?p=9,7,0,katalog-firm" title="Katalog firm i instytucji"><div class="top-icon-circle green" style="background:none; margin-left:-2px"><i class="fa fa-folder-o"></i></div></a>
+
+<a href="index.php?p=5,31,0,mapa-miasta" title="Mapa miasta"><div class="top-icon-circle green" style="background:none"><i class="fa fa-map-o"></i></div></a>
+
+<a href="index.php?p=1,128,0,rss" title="Kanał RSS"><div class="top-icon-circle green hidden-xs" style="background:none; margin-left:-1px"><i class="fa fa-rss"></i></div></a>
+
+<a href="facebooktczpl:"><div class="top-icon-circle green" style="background:none; margin-left:-4px"><i class="fa fa-facebook"></i></div></a>
+
+<a href="index.php?p=0,0,0,poczta_logowanie" title="Poczta e-mail"><div class="top-icon-circle green" style="background:none; margin-left:-6px"><i class="fa fa-envelope-o"></i></div></a>
+
+</div>
+
+</div>
+
+<div class="searchNlogin"><ul><li title="Szukaj..." class="search-icon" onclick="show_dynamic_info_alert('szukaj','','','&p=0,0,0,404');"><i class="fa fa-search"></i></li><span id="login-status"></span>
+
+<script language="javascript">
+<!--
+dynamic_load_fast('login_status','#login-status','');
+//-->
+</script>
+
+</ul>
+
+<div class="search"></div></div>
+
+</div>
+
+</div></header>
+
+<div class="container"><div style="float:left; width:100%; padding-top:30px; padding-bottom:10px">
+<div class="error-content text-center">
+<h1><i class="fa fa-chain-broken green"></i> Coś poszło nie tak</h1>
+<p>Przepraszamy, ale wybrana strona lub artykuł nie istnieje</p>
+<a href="./" class="btn btn-primary">Strona glówna</a>
+<div class="text-center" style="margin-top:-40px"><h2>Szukaj w serwisie</h2></div>
+<form  method="post" action="./">
+<div class="submit-button text-center">
+<input type="text" name="szukaj" class="form-control" required="required" style="margin:auto; width:320px">
+</div>
+<div class="submit-button text-center">
+<button type="submit" class="btn btn-primary">Szukaj</button>
+</div>
+</form>
+</div>
+</div>
+</div></div>
+
+</div>
+
+</div><div id="pop-art-popup"></div><div id="cookies-info"></div>
+
+<div id="bfm-left-bott-1">
+<div id="bfm-left-bott-2">
+<a href="javascript:void(0);" id="go-to-top" onclick="gotoid('top');" title="Do góry..."><i class="fa fa-chevron-up" style="margin-left:14px; margin-right:14px"></i></a>
+</div>
+</div>
+<div id="site-footer-plx"><footer id="footer" style="padding:0px; margin:0px; border:0px">
+
+<div class="footer-top">
+<div class="container text-center" style="padding-top:20px; padding-bottom:20px">
+<div class="logo-icon" style="font-size:11px">
+<a href="./"><img class="img-responsive" src="_ramfs/images/tcz_logo_icon.svg" style="width:40px; height:40px; margin-bottom:2px" alt="Tcz.pl logo" /></a><br>&copy; 2001-2019 Tczew - TCZ.PL Sp. z o.o. Internetowy Serwis Informacyjny Miasta Tczewa
+</div><div class="widget follow-us text-center" style="margin-bottom:20px">
+<ul class="list-inline social-icons">
+<li><a href="https://www.facebook.com/tczewtczpl" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://www.youtube.com/user/tczpl" title="YouTube"><i class="fa fa-youtube"></i></a></li>
+<li><a href="https://twitter.com/tczpl" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://play.google.com/store/apps/details?id=www.tcz.pl.android" title="Google Play"><i class="fa fa-google-play"></i></a></li>
+<li><a href="index.php?p=1,128,0,rss"><i class="fa fa-rss" title="Kanał RSS"></i></a></li>
+<li><a href="https://news.google.com/publications/CAAqHggKIhhDQklTREFnTWFnZ0tCblJqZWk1d2JDZ0FQAQ"><i class="google-news" title="Google News"></i></a></li>
+</ul>
+</div></div>
+</div>
+
+<div class="footer-menu" style="margin:0px">
+
+<ul class="nav navbar-nav">                       
+<li class="bold-r"><a href="index.php?p=12,53,0,tcz-o-firmie">O firmie</a></li>
+<li class="bold-r"><a href="index.php?p=12,66,0,tcz-polityka-prywatnosci"><i class="fa fa-check-circle"></i> Polityka prywatności</a></li>
+<li class="bold-r"><a href="index.php?p=12,51,0,tcz-hosting">Hosting</a></li>
+<li class="bold-r"><a href="index.php?p=10,9,0,reklama-tczew">Reklama</a></li>
+<li class="bold-r"><a href="index.php?p=12,49,0,tcz-wspolpraca">Współpraca</a></li>
+<li class="bold-r"><a href="index.php?p=1,128,0,rss"><i class="fa fa-rss"></i> RSS</a></li>
+<li class="bold-r"><a href="http://www.facebook.com/tczewtczpl"><i class="fa fa-facebook-f"></i> Facebook</a></li>
+<li class="bold-r"><a href="index.php?p=12,52,0,tcz-kontakt"> <i class="fa fa-envelope-o"></i> Kontakt</a></li>
+</ul> 
+</div>
+
+<div class="row white" style="background:#27292a; padding-top:0px; margin-top:-10px; padding-bottom:0px">
+
+<div class="col-md-12">
+
+<div style="float:left; width:100%; text-align:center; padding-bottom:20px; font-size:18px" class="white">Nasze serwisy</div>
+
+</div>
+
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+
+<div id="more-prx-foot">
+
+<div class="col-xs-6 col-sm-6 col-md-3 footer-plx-list">
+
+<a href="index.php?p=1,47,0,wiadomosci">Aktualności</a><br />
+<a href="index.php?p=1,62,0,tcz-24">Tcz24</a><br />
+<a href="index.php?p=0,0,0,temat&item=298e0af7&title=Kronika-policyjna">Kronika Policyjna</a><br />
+<a href="index.php?p=1,3,0,nadchodzace-wydarzenia-kalendarz">Kalendarz imprez</a><br />
+<a href="index.php?p=6,46,0,salony-urody-masazu">Salony urody i masażu</a><br />
+<a href="index.php?p=5,30,0,historia-miasta">Historia miasta</a><br />
+<a href="index.php?p=5,32,0,wladze-miasta">Władze miasta</a><br />
+
+</div>
+
+<div class="col-xs-6 col-sm-6 col-md-3 footer-plx-list">
+
+<a href="index.php?p=1,64,0,muzyka-kultura-sztuka">Muzyka i kultura</a><br />
+<a href="index.php?p=1,65,0,archiwum-wydarzen">Archiwum wydarzeń</a><br />
+<a href="index.php?p=1,69,0,telewizja-tczew">Telewizja Internetowa</a><br />
+<a href="index.php?p=1,1,0,sport">Sport</a><br />
+<a href="index.php?p=5,122,0,zlobki-przedszkola">Żłobki i przedszkola</a><br />
+<a href="index.php?p=5,63,0,foto-galeria&item=8e81797c917da4aa86c8ef6797bf5848&title=Zdjecia-miasta">Zdjęcia miasta</a><br />
+<a href="index.php?p=5,35,0,zabytki">Zabytki</a><br />
+
+</div>
+
+<div class="col-xs-6 col-sm-6 col-md-3 footer-plx-list">
+
+
+<a href="index.php?p=9,7,0,katalog-firm">Katalog firm i instytucji</a><br />
+<a href="index.php?p=2,4,0,ogloszenia-sprzedam-oferuje">Sprzedam, oferuję</a><br />
+<a href="index.php?p=2,14,0,ogloszenia-kupie-poszukuje">Kupię, poszukuję</a><br />
+<a href="index.php?p=2,15,0,ogloszenia-oddam-za-darmo">Oddam za darmo</a><br />
+<a href="index.php?p=6,28,0,lekarze-szpitale">Lekarze i szpitale</a><br />
+<a href="index.php?p=5,108,0,mali-tczewianie">Mali tczewianie</a><br />
+<a href="index.php?p=5,36,0,koscioly">Kościoły</a><br />
+
+</div>
+
+<div class="col-xs-6 col-sm-6 col-md-3 footer-plx-list">
+
+<a href="index.php?p=3,19,0,gastronomia">Lokale gastronomiczne</a><br />
+<a href="index.php?p=4,21,0,puby-kluby">Puby i kluby</a><br />
+<a href="index.php?p=11,23,0,kawiarnie">Kawiarnie</a><br />
+<a href="index.php?p=7,25,0,noclegi">Lokale z noclegiem</a><br />
+<a href="index.php?p=6,27,0,apteki">Apteki</a><br />
+<a href="index.php?p=5,31,0,mapa-miasta">Mapa miasta</a><br />
+<a href="index.php?p=0,0,0,pogoda-tczew">Pogoda Tczew</a><br />
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row" style="margin:0px; padding:0px; padding-bottom:30px; background:#27292a"><div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3 fix-ft-andro-bt" style="text-align:center; margin-top:32px; padding-top:25px; font-size:13px; border-top:1px dotted #5a5e60"><a href="https://play.google.com/store/apps/details?id=www.tcz.pl.android" class="white" style="text-decoration:none">Zainstaluj aplikację Tcz.pl w Google Play: <i class="fa fa-android green"></i> <span class="bold-r green">Android</span></a></div></div>
+
+</footer>
+
+<div id="stat-counter"></div>
+<div id="rodo-out"></div>
+
+<script language="javascript">
+<!--
+dynamic_load_fast('cookies_info','#cookies-info','');
+//-->
+</script>
+<script type="text/javascript" src="_ramfs/js/jquery.easy-ticker.min.js"></script> 
+<script type="text/javascript" src="_ramfs/js/main.js"></script>
+
+<script language="javascript">
+<!--
+  
+$(window).load(function() {
+
+$(window).trigger('scroll');
+
+if (/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
+
+$('#go-to-top').css('border-radius', '0px');
+
+if ($('body').width()>1300) {
+$('.fix-chrome-sg-pop').css('display','block');
+}
+
+}
+
+dynamic_load_fast('prawa_strona_popup_popularny_art','#pop-art-popup','?init=&beta=&full=');
+
+popup();
+
+rodo();
+
+var ab = $('#antb').val();
+$('#antc').val(ab);
+$('#antc2').val(ab);
+
+$("#date-time, #weather").click(function() {
+$("#dynamic-loading-d-info").fadeIn("fast");
+$("#dynamic-load-d-info").fadeIn("fast");
+});  
+
+var cw = $('#top-add-big-2').width();
+$('#top-add-big-1').width(cw);
+$("#top-add-big-1").css( "color", "#b1b1b1" );
+
+var ch = $('#ck1').height();
+ch = ch+45;
+$("#fix-ck-footer").css( "height", ch+"px" );
+
+$(window).resize(function() {
+
+var cw = $('#top-add-big-2').width();
+$('#top-add-big-1').width(cw);
+
+});
+
+setInterval(function() {
+$( "#top-bell" ).removeEffect( "shake" );
+$( "#top-bell" ).effect( "shake" );
+},5000);
+
+});
+
+$(".dyna-exit").click(function() {
+$("#dynamic-loading-d-info").fadeOut("fast");
+$("#dynamic-load-d-info").fadeOut("fast");
+});
+
+//-->
+</script>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7368307-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</div>
+</body>
+</html>
+<!-- czas generowania (bc): 0.0024 s -->
+<!-- cache: 04.05.2019, 20:00:05, https://www.tcz.pl/index.php?p=0,0,0,404 -->

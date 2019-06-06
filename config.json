@@ -1,0 +1,12 @@
+{
+  "token": "TOKEN",
+  "owners": [
+    DISCORD_ID
+  ],
+  "join_message": "Siemka, z tej strony Zadymkowicz",
+  "version": "v2.3"
+  "prefix": [
+    "!"
+  ],
+  "playing": "ZADYMKA XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+}
